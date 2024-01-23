@@ -1,4 +1,4 @@
-# Reorderable List
+# Array List Creator
 
 An attempt to mimic the ReorderableList within Unity while adding some extended functionality.
 
